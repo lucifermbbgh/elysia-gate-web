@@ -12,7 +12,7 @@ devDependencies:
     specifier: ^5.5.3
     version: 5.6.0(webpack@5.90.1)
   webpack:
-    specifier: ^5.88.2
+    specifier: ^5.90.1
     version: 5.90.1(webpack-cli@5.1.4)
   webpack-cli:
     specifier: ^5.1.4
